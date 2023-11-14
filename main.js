@@ -2,6 +2,19 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = "Reana";
+let myLastName = "Brethen";
+let myFavoriteCeleb = "Bob Marley";
+let mySentence = "My name is" + myFirstName + myLastName + "and my favorite celebrity is " + myFavoriteCeleb;
+let myLuckyNum = 7;
+let myAge = 30;
+let myHeight = 65;
+let myFavoriteYear = 1993
+let mySum = 5 + 2317 + 36
+let myProduct = 232 * 43 / 2 + 4
+let myHeightAndAge = myHeight + myAge;
+
+
 
 /*********************************************************************************************************************
 
@@ -32,7 +45,7 @@ if (typeof myLuckyNum === "undefined") {
 }
 
 if (typeof myAge === "undefined") {
-  myMentalAge = undefined;
+  myAge = undefined;
 }
 
 if (typeof myHeight === "undefined") {
