@@ -2,10 +2,10 @@
  * YOUR CODE BELOW *
  ******************/
 
-let myFirstName = "Reana";
+let myFirstName = "Reana ";
 let myLastName = "Brethen";
 let myFavoriteCeleb = "Bob Marley";
-let mySentence = "My name is" + myFirstName + myLastName + "and my favorite celebrity is " + myFavoriteCeleb;
+let mySentence = "My name is " + myFirstName + myLastName + " and my favorite celebrity is " + myFavoriteCeleb;
 let myLuckyNum = 7;
 let myAge = 30;
 let myHeight = 65;
